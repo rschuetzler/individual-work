@@ -3,3 +3,5 @@
 * Permissions
 * Fetch/pull
 * GitHub Classroom
+* Automated testing
+* Exercises
